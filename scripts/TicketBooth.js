@@ -10,7 +10,7 @@ eventHub.addEventListener("click", clickEvent => {
         })
 
         eventHub.dispatchEvent(rideEvent)
-        console.log("clicked");
+        // console.log("clicked");
     }
 })
 
